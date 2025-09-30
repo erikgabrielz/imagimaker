@@ -1,0 +1,38 @@
+alterar ícones (instagram, whatsapp, facebook, youtube)
+
+cabeçalho
+
+remover o menu dropdown e deixar os links na lista do cabeçalho
+
+mudar o texto para: cursos para serviços e atividades para cursos
+
+
+remover quem somos
+deixar a frase centralizada maior
+
+alinhar as caixas
+
+remover data das caixas do lado sobre e alinhar o tamanho
+
+escurecer o fundo nas caixas do lado da metodologia e colocar borda redonda
+
+atividades: alinhar caixas e mudar os textos, remover preços
+
+
+resultados
+alterar vídeos e dados
+
+
+alterar informações da página de contato
+
+
+
+
+#serviços editoriais
+remover get all details
+mudar o título
+
+mudar o título em baixo e o endereço
+remover a data lateral
+
+remover lorem ipsum
