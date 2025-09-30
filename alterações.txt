@@ -1,29 +1,29 @@
-alterar ícones (instagram, whatsapp, facebook, youtube)
+alterar ícones (instagram, whatsapp, facebook, youtube) - OK (falta links)
 
 cabeçalho
 
-remover o menu dropdown e deixar os links na lista do cabeçalho
+remover o menu dropdown e deixar os links na lista do cabeçalho - OK
 
-mudar o texto para: cursos para serviços e atividades para cursos
+mudar o texto: cursos para serviços e atividades para cursos - OK
 
 
-remover quem somos
-deixar a frase centralizada maior
+remover quem somos - OK
+deixar a frase centralizada maior - OK
 
-alinhar as caixas
+alinhar as caixas - OK
 
-remover data das caixas do lado sobre e alinhar o tamanho
+remover data das caixas do lado sobre e alinhar o tamanho - OK
 
-escurecer o fundo nas caixas do lado da metodologia e colocar borda redonda
+escurecer o fundo nas caixas do lado da metodologia e colocar borda redonda - OK
 
-atividades: alinhar caixas e mudar os textos, remover preços
+atividades: alinhar caixas e mudar os textos, remover preços - OK
 
 
 resultados
-alterar vídeos e dados
+alterar vídeo e dados
 
 
-alterar informações da página de contato
+alterar informações da página de contato - OK
 
 
 
