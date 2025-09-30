@@ -1306,8 +1306,10 @@ section.our-facts .video {
   text-align: center;
   margin-left: 70px;
   border-radius: 20px;
+  height: fit-content;
 
-  iframe{
+  video{
+    width: 500px;
     border-radius: 20px;
   }
 }
