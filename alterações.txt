@@ -29,10 +29,10 @@ alterar informações da página de contato - OK
 
 
 #serviços editoriais
-remover get all details
-mudar o título
+remover get all details -- OK
+mudar o título - OK
 
-mudar o título em baixo e o endereço
-remover a data lateral
+mudar o título em baixo e o endereço - OK
+remover a data lateral - OK
 
-remover lorem ipsum
+remover lorem ipsum - OK
