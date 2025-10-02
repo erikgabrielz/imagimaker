@@ -4,7 +4,9 @@
 }
 
 .materiais-apoio{
-    bottom: 10px;
+    .container-materiais{
+        margin-top: 150px !important;
+    }
 }
 
 .container-materiais{
@@ -12,7 +14,7 @@
     justify-content: space-around;
     flex-wrap: wrap;
     width: 100%;
-    margin-top: 150px;
+    margin-top: 200px;
 
     .item{
         background-color: #F5811E;
